@@ -1,5 +1,5 @@
-#Feito por Joab Urbano
 from Calcular import *
+
 print("Digite 1 para congruencia e 2 para mdc com euclides")
 print("")
 while True:
